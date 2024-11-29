@@ -68,8 +68,12 @@ Enhanced Rock-Paper-Scissors
 └── README.md
 
 ### How to Run
-1. Ensure dependencies are installed:   ```bash
-   pip install pygame   ```
-2. Execute in project root directory:   ```bash
-   python run.py   ```
+1. Ensure dependencies are installed:   
+   ```
+   pip install pygame
+   ```
+2. Execute in project root directory:   
+   ```
+   python run.py
+   ```
 
